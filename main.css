@@ -1,0 +1,10 @@
+html body{
+    text-align: center;
+    background-color: #2d3436;
+    color: white;
+}
+
+.page-container{
+    position: relative;
+    top: 50px;
+}
