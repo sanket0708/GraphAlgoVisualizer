@@ -13,6 +13,6 @@ export const BFS_DESCRIPTION = "<b>BFS: Breadth First Search</b><br>\n" +
 export const DFS_DESCRIPTION = "<b>DFS: Depth First Search</b><br>\n" +
     "<p><strong>Worst-Case Time Complexity: </strong>$$O(|V|+|E|)=O(b^d)$$</p>\n" +
     "<p><strong>Worst-Case Space Complexity: </strong>$$O(|V|)=O(bd)$$</p>";
-export const A_STAR_DESCRIPTION = "<b>BFS: Breadth First Search</b><br>\n" +
+export const A_STAR_DESCRIPTION = "<b>A*: Dijkstra's Extension</b><br>\n" +
     "<p><strong>Worst-Case Time Complexity: </strong>$$O(|E|)=O(b^d)$$</p>\n" +
     "<p><strong>Worst-Case Space Complexity: </strong>$$O(|V|)=O(b^d)$$</p>";
